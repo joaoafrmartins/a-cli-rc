@@ -1,0 +1,26 @@
+{
+  "name": "a-cli-rc",
+  "version": "0.0.0",
+  "main": "lib/main",
+  "scripts": {
+    "test": "mocha --reporter spec --compilers coffee:coffee-script/register ./spec"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "kosher": ""
+  },
+  "description": "A Cli Rc",
+  "keywords": [
+    "a",
+    "cli",
+    "rc"
+  ],
+  "homepage": "https://github.com/joaoafrmartins/a-cli-rc",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/joaoafrmartins/a-cli-rc.git"
+  },
+  "bugs": {
+    "url": "https://github.com/joaoafrmartins/a-cli-rc/issues"
+  }
+}
